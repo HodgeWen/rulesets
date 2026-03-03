@@ -14,6 +14,7 @@ payload:
   - +.ai.studio
   - +.opal.google.com
   - +.jules.google.com
+  - +.googleusercontent.com
   - gemini.google.com
   - one.google.com
   - aistudio.google.com
@@ -21,3 +22,5 @@ payload:
   - apis.google.com
   - www.google-analytics.com
   - accounts.google.com
+  - ogs.google.com
+  - play.google.com

@@ -58,6 +58,8 @@ export const rulesets: RuleSetConfig[] = [
         "apis.google.com",
         "www.google-analytics.com",
         "accounts.google.com",
+        "ogs.google.com",
+        "play.google.com",
       ],
       domain_suffix: [
         "googleapis.com",
@@ -74,6 +76,7 @@ export const rulesets: RuleSetConfig[] = [
         "ai.studio",
         "opal.google.com",
         "jules.google.com",
+        "googleusercontent.com",
       ],
       domain_keyword: ["antigravity"],
     },

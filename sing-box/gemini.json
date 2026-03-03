@@ -9,7 +9,9 @@
         "ai.google.dev",
         "apis.google.com",
         "www.google-analytics.com",
-        "accounts.google.com"
+        "accounts.google.com",
+        "ogs.google.com",
+        "play.google.com"
       ],
       "domain_suffix": [
         "googleapis.com",
@@ -25,7 +27,8 @@
         "notebooklm.google",
         "ai.studio",
         "opal.google.com",
-        "jules.google.com"
+        "jules.google.com",
+        "googleusercontent.com"
       ],
       "domain_keyword": [
         "antigravity"
