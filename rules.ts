@@ -18,6 +18,7 @@ export const rulesets: RuleSetConfig[] = [
         "anthropic.com",
         "claude.com",
         "cursor.sh",
+        "openai.com",
       ],
     },
   },
