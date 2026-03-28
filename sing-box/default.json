@@ -2,6 +2,9 @@
   "version": 3,
   "rules": [
     {
+      "domain": [
+        "docs.siliconflow.cn"
+      ],
       "domain_suffix": [
         "turborepo.com",
         "turbo.build",

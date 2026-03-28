@@ -26,6 +26,7 @@ export const rulesets: RuleSetConfig[] = [
     name: "default",
     behavior: "domain",
     rules: {
+      domain: ["docs.siliconflow.cn"],
       domain_suffix: [
         "turborepo.com",
         "turbo.build",
