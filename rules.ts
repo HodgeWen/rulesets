@@ -19,6 +19,7 @@ export const rulesets: RuleSetConfig[] = [
         "claude.com",
         "cursor.sh",
         "openai.com",
+        "reddit.com",
       ],
     },
   },
