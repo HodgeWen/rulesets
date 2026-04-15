@@ -36,6 +36,7 @@ export const rulesets: RuleSetConfig[] = [
         "prisma-data.net",
         "elysiajs.com",
         "rollupjs.org",
+        "aihubmix.com",
       ],
     },
   },
