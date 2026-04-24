@@ -2,11 +2,9 @@
   "version": 3,
   "rules": [
     {
-      "domain": [
-        "docs.siliconflow.cn"
-      ],
       "domain_suffix": [
         "turborepo.com",
+        "docs.siliconflow.cn",
         "turbo.build",
         "rolldown.rs",
         "prisma.io",

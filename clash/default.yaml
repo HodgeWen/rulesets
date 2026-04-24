@@ -1,6 +1,7 @@
 # behavior: domain
 payload:
   - +.turborepo.com
+  - +.docs.siliconflow.cn
   - +.turbo.build
   - +.rolldown.rs
   - +.prisma.io
@@ -8,4 +9,3 @@ payload:
   - +.elysiajs.com
   - +.rollupjs.org
   - +.aihubmix.com
-  - docs.siliconflow.cn
