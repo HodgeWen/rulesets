@@ -8,7 +8,9 @@
       ],
       "domain_suffix": [
         "wd-gold.com",
-        "wenhongjie.tech"
+        "wenhongjie.tech",
+        ".local",
+        "local"
       ],
       "domain_keyword": [
         "tagxx",
